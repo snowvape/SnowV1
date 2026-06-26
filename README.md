@@ -4,8 +4,8 @@ Original credits go to Xylex (7GrandDadPGN on GitHub) for Vape V4.
 > [!NOTE]
 > Supported Executors - Volt, Potassium, Synapse Z, Wave, Madium
 
-[What Exploits Are Online?](https://weao.gg/)
+> [!NOTE]
+> [What Exploits Are Online?](https://weao.gg/)
 
-
-> Developers:
-- x16 (New Project Maintainer)
+> [!NOTE]
+> x16 (New Project Maintainer)
